@@ -3,4 +3,4 @@ geopandas
 millify
 folium
 streamlit_folium
-pycaret==3.0.0rc2
+pycaret
